@@ -20,4 +20,4 @@ export default function greet() {
     console.log("Hello");
 }
 
-export {a, arr, obj};
+export {a as b, arr, obj};
