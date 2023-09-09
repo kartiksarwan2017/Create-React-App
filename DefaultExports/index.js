@@ -1,7 +1,7 @@
 import greeting from "./App.js";
-import {a, arr, obj} from "./App.js";
+import {a as b, arr, obj} from "./App.js";
 
-console.log(a);
+console.log(b);
 console.log(arr);
 console.log(obj);
 greeting();
